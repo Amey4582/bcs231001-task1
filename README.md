@@ -1,4 +1,4 @@
-# bcs231001-task1
+# bcs231001- q1-B
 25/12/2023
 
 #include <iostream>
